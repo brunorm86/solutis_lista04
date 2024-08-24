@@ -1,6 +1,6 @@
 PROF.(A): Tiago de Almeida Lopes
-ALUNO(A): Bruno Ricardo Machado
-DATA: 23/08/2024
+<br>ALUNO(A): Bruno Ricardo Machado
+<br>DATA: 23/08/2024
 
 Git: https://github.com/brunorm86/solutis_lista04.git
 
